@@ -1,0 +1,9 @@
+.media-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+}
+.site {
+  display: flex;
+  justify-content: space-evenly;
+}
